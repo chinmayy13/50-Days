@@ -11,3 +11,5 @@ Hidden Search Widget - [https://hidden-search12.netlify.app/]
 Blurry Loading - [https://blurry-loading12.netlify.app/]
 
 Scroll Animation - [https://scroll-animation12.netlify.app/]
+
+Split Landing - [https://split-landing12.netlify.app/]
