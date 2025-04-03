@@ -18,4 +18,4 @@ Form Wave Animation - [https://form-wave12.netlify.app/]
 
 Sound Board - [https://sound-board12.netlify.app/]
 
-Dad Jokes - [https://dad-jokes12.netlify.app/]
+Kruger Jokes - [https://kruger-jokes121.netlify.app]
