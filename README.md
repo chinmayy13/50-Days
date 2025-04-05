@@ -21,3 +21,5 @@ Sound Board - [https://sound-board12.netlify.app/]
 Kruger Jokes - [https://kruger-jokes121.netlify.app]
 
 Event KeyCodes -[https://github.com/chinmayy13?tab=repositories]
+
+FAQ Collapse - [https://aot-myths12.netlify.app/]
