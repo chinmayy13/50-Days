@@ -23,3 +23,5 @@ Kruger Jokes - [https://kruger-jokes121.netlify.app]
 Event KeyCodes -[https://github.com/chinmayy13?tab=repositories]
 
 FAQ Collapse - [https://aot-myths12.netlify.app/]
+
+Random Choice Selector - [https://random-choice12.netlify.app/]
