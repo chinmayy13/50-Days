@@ -1,1 +1,1 @@
-[Live Server 🌐](https://live-homepage.netlify.app/)
+[Live Server 🌐](https://50homepage.netlify.app/)
